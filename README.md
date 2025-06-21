@@ -122,7 +122,7 @@ Welcome to my Agent Engineering Bootcamp repository! This repo contains both Typ
 
 ## 🤝 Contributing
 
-This is a personal learning repository for the Agent Engineering Bootcamp. Feel free to fork and experiment with your own implementations!
+This is a personal learning repository for the Break Into Data: AI Agent Engineering Bootcamp, https://breakintodata.io/. Feel free to fork and experiment with your own implementations!
 
 ## 📄 License
 
@@ -130,4 +130,4 @@ This project is for educational purposes as part of the Agent Engineering Bootca
 
 ---
 
-**Happy Coding!** 🎉 Built with ❤️ for the Agent Engineering Bootcamp 
+**Happy Coding!** 🎉 Built with ❤️ for the Break Into Data: AI Agent Engineering Bootcamp, https://breakintodata.io/
