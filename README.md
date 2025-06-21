@@ -147,4 +147,4 @@ This project is for educational purposes as part of the Agent Engineering Bootca
 
 ---
 
-**Happy Coding!** 🎉 Built with ❤️ for the Break Into Data: AI Agent Engineering Bootcamp, [https://breakintodata.io/](https://breakintodata.io/) 
+**Happy Coding!** 🎉 Built with ❤️ for the Break Into Data: AI Agent Engineering Bootcamp, [https://breakintodata.io/](https://breakintodata.io/)
