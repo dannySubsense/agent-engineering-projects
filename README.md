@@ -1,19 +1,36 @@
-# Agent Engineering Bootcamp
+# 🤖 AI Agent Engineering Template
 
-Welcome to my Agent Engineering Bootcamp repository! This repo contains both TypeScript and Python implementations for building AI-powered applications and agents.
+**Ready-to-use template for building AI agents and applications.** Choose your stack and start building immediately!
 
-## 🚀 Projects Overview
+> 🚀 **Quick Start**: Click "Use this template" above to create your new AI project!
 
-### 📁 TypeScript Project (`ts-bootcamp-project/`)
+## 🎯 Choose Your Stack
+
+### 🚀 TypeScript + Next.js (`ts-bootcamp-project/`)
 - **Framework**: Next.js 14 with App Router
 - **AI Integration**: Vercel AI SDK with OpenAI
-- **UI Components**: Shadcn UI with Tailwind CSS
-- **Features**: AI-powered poem generation with streaming responses
+- **UI**: Shadcn UI + Tailwind CSS
+- **Perfect for**: Web apps, chatbots, user-facing agents
 
-### 📁 Python Project (`python-bootcamp-project/`)
-- **Package Manager**: uv (fast modern Python package manager)
-- **AI Integration**: LiteLLM (unified interface for 100+ LLMs)
-- **Features**: Simple AI chat interface with OpenAI integration
+### 🐍 Python + LiteLLM (`python-bootcamp-project/`)
+- **Package Manager**: uv (fast & modern)
+- **AI Integration**: LiteLLM (100+ LLM providers)
+- **Perfect for**: Scripts, APIs, data processing, backend agents
+
+## 📋 Template Usage
+
+### 1. Create New Project
+1. Click **"Use this template"** (green button above)
+2. Name your project (e.g., `my-ai-chatbot`)
+3. Clone your new repository locally
+
+### 2. Choose Your Stack
+```bash
+# Keep only the stack you need
+rm -rf python-bootcamp-project/  # If using TypeScript
+# OR
+rm -rf ts-bootcamp-project/      # If using Python
+```
 
 ## 🛠️ Setup Instructions
 
@@ -122,7 +139,7 @@ Welcome to my Agent Engineering Bootcamp repository! This repo contains both Typ
 
 ## 🤝 Contributing
 
-This is a personal learning repository for the Agent Engineering Bootcamp. Feel free to fork and experiment with your own implementations!
+This is a personal learning repository for the Break Into Data: AI Agent Engineering Bootcamp, [https://breakintodata.io/](https://breakintodata.io/). Feel free to fork and experiment with your own implementations!
 
 ## 📄 License
 
@@ -130,4 +147,4 @@ This project is for educational purposes as part of the Agent Engineering Bootca
 
 ---
 
-**Happy Coding!** 🎉 Built with ❤️ for the Agent Engineering Bootcamp 
+**Happy Coding!** 🎉 Built with ❤️ for the Break Into Data: AI Agent Engineering Bootcamp, [https://breakintodata.io/](https://breakintodata.io/) 
